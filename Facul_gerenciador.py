@@ -7,7 +7,7 @@ init(autoreset=True)
 eventos = [{
     "nome": "code & future",
     "data": "15/08/2026",
-    "descricao": "Um mega evento de todas as areas da tecnolia",
+    "descricao": "Um mega evento de todas as areas da tecnologia",
     "vagas": 3000
 }]
 
