@@ -9,13 +9,13 @@ Com ele, alunos podem visualizar eventos e se inscrever, enquanto coordenadores 
 
 ## 🚀 Funcionalidades
 
-## 👨‍🎓 Aluno
+### 👨‍🎓 Aluno
 
 * Visualizar eventos disponíveis 📅
 * Inscrever-se em eventos ✍️
 * Conferir os detalhes de cada evento 🔎
 
-## 👩‍🏫 Coordenador
+### 👩‍🏫 Coordenador
 
 * Cadastrar novos eventos 📝
 * Atualizar informações (data, descrição, vagas) 🔄
