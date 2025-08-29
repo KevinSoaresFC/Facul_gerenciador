@@ -50,7 +50,7 @@ Com ele, alunos podem visualizar eventos e se inscrever, enquanto coordenadores 
 
 ---
 
-## Autor
+## 👤Autor
 
 Desenvolvido por *Kevin* 👨‍💻
 Aluno de **Análise e Desenvolvimento de Sistemas - UniFECAF**
