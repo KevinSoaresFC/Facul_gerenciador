@@ -45,7 +45,7 @@ Com ele, alunos podem visualizar eventos e se inscrever, enquanto coordenadores 
 
 ## 🎥 Apresentação
 
-📹 O funcionamento completo do sistema está disponível no vídeo de apresentação (Pitch).
+📹 O funcionamento completo do sistema está disponível no vídeo de apresentação.
 👉 [Assista aqui](COLE_O_LINK_AQUI)
 
 ---
