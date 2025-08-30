@@ -46,7 +46,7 @@ Com ele, alunos podem visualizar eventos e se inscrever, enquanto coordenadores 
 ## 🎥 Apresentação
 
 📹 O funcionamento completo do sistema está disponível no vídeo de apresentação.
-👉 [Assista aqui](COLE_O_LINK_AQUI)
+👉 [Assista aqui](https://www.linkedin.com/posts/kevinsoaresfc_python-programaaexaeto-eventos-activity-7367284924304781312-1t7S?utm_source=share&utm_medium=member_android&rcm=ACoAAFg6_LkBZ7W-CCa-JJJ04UpWZe2FYS7DDX0)
 
 ---
 
