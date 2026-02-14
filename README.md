@@ -5,6 +5,8 @@
 Este sistema tem como objetivo organizar e controlar eventos universitários, como workshops, palestras e a famosa *Tech Week*.
 Com ele, alunos podem visualizar eventos e se inscrever, enquanto coordenadores têm acesso ao gerenciamento completo (criação, atualização e exclusão de eventos).
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
 ---
 
 ## 🚀 Funcionalidades
